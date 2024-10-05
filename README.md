@@ -1,4 +1,4 @@
-# EEG_Fear_Emotion_with_EMD
+# EEG_Fear_Emotion_Recognition_with_EMD
 This is a code for the study of "EMD-Based Feature Extraction Toward Real-Time Fear Emotion Recognition Application Using EEG".
 
 URL:https://ieeexplore.ieee.org/document/10417245  
